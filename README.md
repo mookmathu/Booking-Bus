@@ -1,16 +1,6 @@
-# booking_bus
+# 🚐 Van Booking Application (SA Project)
 
-A new Flutter project.
+A mobile application designed to streamline public van reservations, reduce waiting times, and improve travel management. This project was developed as part of the **Systems Analysis and Design (SAD)** course.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📖 Project Overview
+This project focuses on the end-to-end lifecycle of system development, from initial requirement gathering and architectural design to a functional prototype using Flutter.
